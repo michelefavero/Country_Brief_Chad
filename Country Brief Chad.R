@@ -51,3 +51,4 @@ ggplot(GPI, aes(x = Peace_Index, y = Measure)) +
        y = "Current scale of investments (from 1 to 5)") +
   coord_flip()
 
+
